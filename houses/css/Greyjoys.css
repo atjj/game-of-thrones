@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(0, 0, 0)
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    height: 520px;
+}
+
+.under_text{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    color:rgb(214, 212, 188);
+}
